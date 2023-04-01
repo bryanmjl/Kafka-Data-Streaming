@@ -1,0 +1,6 @@
+# Ignore virtual environment
+kafkavenv/
+
+# Ignore config.py 
+config.py
+__pycache__
