@@ -55,7 +55,3 @@ This is a project which makes use of ```confluent_kafka``` to stream real-time d
     - ```youtube_changes``` as a table for querying changes in video statistics over a period of time
     - ```telegram_outbox``` as a stream for sending streamed data into telegram bot created 
 
-
-# Reference
-1. Youtube kafka guide: 
-    - https://www.youtube.com/watch?v=jItIQ-UvFI4
