@@ -59,6 +59,3 @@ This is a project which makes use of ```confluent_kafka``` to stream real-time d
 # Reference
 1. Youtube kafka guide: 
     - https://www.youtube.com/watch?v=jItIQ-UvFI4
-2. Youtube Data API (Playlists): 
-    - https://developers.google.com/youtube/v3/docs/playlistItems
-    - Main source guide but tweaked to my own use case 
